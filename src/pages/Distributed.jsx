@@ -10,7 +10,7 @@ const Coinbase = () => {
     return (
         <>
             <Header />
-            <TitleSection title={"Coinbase Transactions"} />
+            <TitleSection title={"Distributed Blockchain"} />
             <section>
                 <Container className="mb-5">
                     <div className="pb-2">
