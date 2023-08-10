@@ -1,0 +1,48 @@
+.single_item {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background: #c7d8ff;
+    border-radius: 10px;
+}
+
+.input-group {
+    display: flex;
+    align-items: center;
+}
+
+.input-group-addon {
+    background-color: rgb(97 192 254);
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+}
+
+.form-control {
+    font-family: monospace;
+}
+
+.form-group {
+    display: flex;
+    padding-bottom: 10px;
+    align-items: center;
+    font-weight: bolder;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+.form-group h6 {
+    font-weight:bold;
+}
+
+.btn-mine {
+    background-color:#12053f;
+    color:#fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+}

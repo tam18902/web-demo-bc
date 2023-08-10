@@ -1,0 +1,8 @@
+.row-custom {
+    overflow-x: scroll;
+    overflow-y: hidden !important;
+    white-space: nowrap;
+    display: flex;
+    overflow: scroll;
+    flex-wrap: nowrap !important;
+}
